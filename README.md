@@ -22,6 +22,12 @@ Rápida descrição do objetivo de fazer esse projeto
 
 - Exibimos os livros da API manipulando o DOM através do método forEach.
 
+- # Unidade 2 - Map: novo array modificado
+
+- Aprendemos que o método map executa uma função para cada elemento do array e devolve um novo array como resultado;
+
+- Aplicamos um desconto através do método map nos preços de cada livro do nosso projeto e entendemos a diferença entre os métodos forEach e map.
+
 ## ⭐ Layout
 ![Layout]()
 
