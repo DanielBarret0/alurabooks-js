@@ -22,11 +22,19 @@ Rápida descrição do objetivo de fazer esse projeto
 
 - Exibimos os livros da API manipulando o DOM através do método forEach.
 
-- # Unidade 2 - Map: novo array modificado
+# Unidade 2 - Map: novo array modificado
 
 - Aprendemos que o método map executa uma função para cada elemento do array e devolve um novo array como resultado;
 
 - Aplicamos um desconto através do método map nos preços de cada livro do nosso projeto e entendemos a diferença entre os métodos forEach e map.
+
+# Unidade 3 - Filter Aplicando Diferentes filtros
+
+Realizamos testes na documentação oficial do JavaScript para entender [como o método filter funciona](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter);
+
+Atribuímos um evento de click no botão para [filtrar os livros por categoria](https://github.com/alura-cursos/js-metodos-array/blob/aula_3/app/metodoFilter.js) através do filter;
+
+Exibimos os livros filtrados por categoria e que estejam disponíveis.
 
 ## ⭐ Layout
 ![Layout]()
