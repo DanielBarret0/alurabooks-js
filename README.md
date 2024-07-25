@@ -1,6 +1,6 @@
 # Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+Esse curso tem como objetivo aprender e desenvolver habilidade com métodos de array no projeto Alura Books
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
