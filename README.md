@@ -30,11 +30,25 @@ Esse curso tem como objetivo aprender e desenvolver habilidade com métodos de a
 
 # Unidade 3 - Filter Aplicando Diferentes filtros
 
-Realizamos testes na documentação oficial do JavaScript para entender [como o método filter funciona](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter);
+- Realizamos testes na documentação oficial do JavaScript para entender [como o método filter funciona](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter);
 
-Atribuímos um evento de click no botão para [filtrar os livros por categoria](https://github.com/alura-cursos/js-metodos-array/blob/aula_3/app/metodoFilter.js) através do filter;
+- Atribuímos um evento de click no botão para [filtrar os livros por categoria](https://github.com/alura-cursos/js-metodos-array/blob/aula_3/app/metodoFilter.js) através do filter;
 
-Exibimos os livros filtrados por categoria e que estejam disponíveis.
+- Exibimos os livros filtrados por categoria e que estejam disponíveis.
+
+# Unidade 4 - Sort: ordenando a lista
+
+- Aprendemos como funciona o método de ordenação de array sort;
+
+- Ordenamos os livros da aplicação por preço;
+
+- Melhoramos a experiência do usuário da aplicação, aplicando uma opacidade nos livros indisponíveis.
+
+# Unidade 5 - Reduce - Um único valor
+
+- Manipulamos o DOM para exibir a sessão de valor total dos livros disponíveis apenas quando o botão de filtrar livros disponíveis fosse clicado;
+
+- Utilizamos o método reduce para descobrir o valor total de todos livros disponíveis.
 
 ## ⭐ Layout
 ![Layout]()
